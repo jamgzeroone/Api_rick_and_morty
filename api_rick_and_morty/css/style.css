@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    width: 100%;
+    z-index: 1;
+}
+
+.text-color {
+    color: rgb(112, 206, 206);
+}
+
+#datosPersonajes {
+    margin-top: 100px;
+}
